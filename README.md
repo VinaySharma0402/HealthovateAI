@@ -4,5 +4,5 @@
 - Medecine Reminder
 - Nearest Hospital
 - AI Voice Assistant
-### Developed By;
--Vishwasjeet Gupta
+### Developed By:
+- Vishwasjeet Gupta
