@@ -55,7 +55,7 @@ Healthovate AI is a smart healthcare web platform that uses AI to assist users w
 
 ## 📁 Folder Structure
 
-### ``` healthcare-backend/
+###  healthcare-backend/
 ├── controllers/ → Handle business logic
 ├── models/ → Mongoose schemas
 ├── routes/ → Express routing
@@ -63,7 +63,7 @@ Healthovate AI is a smart healthcare web platform that uses AI to assist users w
 ├── config/ → DB config and environment setup
 ├── index.js → Entry point
 ├── .env → Environment variables
-└── package.json → Project dependencies and scripts ```
+└── package.json → Project dependencies and scripts 
 ---
 
 ## 💡 Why Healthovate AI?
