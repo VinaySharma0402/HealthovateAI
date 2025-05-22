@@ -53,16 +53,7 @@ Healthovate AI is a smart healthcare web platform that uses AI to assist users w
 
 ---
 
-## 📂 Folder Structure (Backend)
-healthcare-backend/
-├── controllers/       → Handle business logic
-├── models/            → Mongoose schemas
-├── routes/            → Express routing
-├── middleware/        → Auth & validation middlewares
-├── config/            → DB config and environment setup
-├── index.js           → Entry point
-├── .env               → Environment variables
-└── package.json       → Project dependencies and scripts
+<pre><code>## 📁 Folder Structure ``` healthcare-backend/ ├── controllers/ → Handle business logic ├── models/ → Mongoose schemas ├── routes/ → Express routing ├── middleware/ → Auth & validation middlewares ├── config/ → DB config and environment setup ├── index.js → Entry point ├── .env → Environment variables └── package.json → Project dependencies and scripts ``` </code></pre>
 
 ---
 
@@ -108,24 +99,24 @@ cd healthcare-backend
 ---
 
 2️⃣ Install Dependencies
-npm install
+   npm install
 
 3️⃣ Create a .env File
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+  PORT=5000
+  MONGO_URI=your_mongodb_connection_string
+  JWT_SECRET=your_jwt_secret
 
 4️⃣ Run in Development Mode
-npm run dev
+   npm run dev
 
 🗨️ Contact
-Have questions or want to contribute?
+   Have questions or want to contribute?
 
 📧 Email: vinaysharma8548@gmail.com
 🔗 GitHub:(https://github.com/VinaySharma0402)
 ----
 ## Developed by
-Ram Vinay Kumar
+   Ram Vinay Kumar
 
 
 
