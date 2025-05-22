@@ -66,13 +66,16 @@ Healthovate AI is a smart healthcare web platform that uses AI to assist users w
 └── package.json → Project dependencies and scripts 
 ---
 
-## 💡 Why Healthovate AI?
+## 🙋‍♀️ Why Choose Healthovate AI?
+Unlike general platforms like Google, Healthovate AI gives:
 
-Unlike general platforms like Google, **Healthovate AI** is:
+✅ Personalized answers tailored to the user.
 
-- 🧠 **Personalized**: Answers and suggestions tailored to you.
-- 🧰 **All-in-One**: No need for multiple apps — everything in one place.
-- 🧑‍⚕️ **Real-time**: Book appointments, get reminders, and find hospitals instantly.
+🧰 All-in-one tools — no switching between apps.
+
+📅 Smart scheduling, reminders, and location-based hospital search.
+
+📊 Integrated real-time support for health decisions..
 
 ### ✅ Example:
 
